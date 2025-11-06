@@ -1,0 +1,3 @@
+- Keep SAFE_MODE defaults.
+- No secrets/tokens in commits.
+- Add mitigation guidance with any new finding.
